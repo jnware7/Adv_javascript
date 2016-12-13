@@ -12,8 +12,8 @@ Well now you can get an AWESOME, SOLID FOUNDATION to help you with this journey.
 
 Javascript Tutorials:
 - [x] Programming Step-by-Step: Object-Oriented JavaScript
-- [x] JQuery Basics
-- [x] JavaScript Basics
+- [x] JQuery / JS Basics
+- [x] JavaScript and the DOM
 - [x] JavaScript Loops, Arrays and Objects
 - [x] Node.js Basics
 - [x] Build a Simple Dynamic Site with Node.js
@@ -23,17 +23,12 @@ Javascript Tutorials:
 - [x] JavaScript Unit Testing
 - [x] Build a REST API with Express
 - [x] The Module Pattern in JavaScript
-
-
-
 - [x] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
-
-##Stretch Goals
+## Stretch Goals
 
 Databases:
 - [x] Reporting with SQL
 - [x] SQL Basics
----
 
 <!-- LICENSE -->
 
