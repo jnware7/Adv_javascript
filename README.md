@@ -28,8 +28,11 @@ Javascript Tutorials:
 ## Stretch Goals
 
 Databases:
-- [x] Reporting with SQL
 - [x] SQL Basics
+- [x] Modifying Data with SQL
+- [x] Reporting with SQL
+- [x] Mongo Basics
+
 
 <!-- LICENSE -->
 
