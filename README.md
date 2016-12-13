@@ -24,6 +24,7 @@ Javascript Tutorials:
 - [x] Build a REST API with Express
 - [x] The Module Pattern in JavaScript
 - [x] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
+
 ## Stretch Goals
 
 Databases:
